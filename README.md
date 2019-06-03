@@ -1,4 +1,4 @@
-## Societal-Publications
+# Societal-Publications
 
 
 [![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Societal-Publications.svg)](https://github.com/tapaswenipathak/Societal-Publications/issues)
@@ -8,6 +8,6 @@
 [![Twitter](https://img.shields.io/twitter/url/https/github.com%2Ftapaswenipathak%2FSocietal-Publications%2Fblob%2Fmaster%2FREADME.md.svg
 )](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Ftapaswenipathak%2FSocietal-Publications%2Fblob%2Fmaster%2FREADME.md)
 
-# Open access publications on societal issues w/ open writing process.
+## Open access publications on societal issues w/ open writing process.
 
 - [journals](./journals.md)
